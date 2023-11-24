@@ -1,6 +1,5 @@
 /* eslint-disable no-console */
 import { basename, resolve } from 'node:path';
-import Vue from '@vitejs/plugin-vue';
 import { visualizer } from 'rollup-plugin-visualizer';
 import { loadEnv, type ConfigEnv, type UserConfig } from 'vite';
 import packageJson from './package.json';
@@ -11,13 +10,12 @@ export default (configEnv: ConfigEnv) => {
     console.info(configEnv);
     console.table(env);
     return {
-        base: env.VITE_BASE_URL,
-        server: {
-            host: '0.0.0.0',
-            open: true,
+        resolve: {
+            alias: {
+                '@/*': './src/*',
+            },
         },
         plugins: [
-            Vue(),
             visualizer({
                 open: false,
                 gzipSize: true,

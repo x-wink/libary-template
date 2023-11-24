@@ -1,3 +1,1 @@
-export const useMyLibary = () => {
-    return 'Hello Liabry';
-};
+export const sum = (a: number, b: number) => a + b;

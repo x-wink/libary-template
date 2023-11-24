@@ -23,6 +23,7 @@ npm run dev
 ## 🎯 框架依赖
 
 -   [Vite](https://cn.vitejs.dev/) 脚手架
+-   [Vitest](https://cn.vitest.dev/) 测试框架
 -   [Typescript](https://www.tslang.cn) JavaScript 的超集
 -   [Eslint](https://eslint.bootcss.com/) 可组装的 JavaScript 和 JSX 检查工具
 -   [Prettier](https://prettier.io/) 代码格式化程序
