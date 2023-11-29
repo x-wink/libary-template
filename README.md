@@ -5,7 +5,7 @@
 <!-- 通用 -->
 
 ![版本](https://img.shields.io/github/package-json/v/x-wink/libary-template?style=for-the-badge&filename=package.json)
-![许可](https://img.shields.io/github/package-json/mit/x-wink/libary-template?style=for-the-badge)
+![许可](https://img.shields.io/github/package-json/license/x-wink/libary-template?style=for-the-badge)
 
 <!-- NPM包专用 -->
 
