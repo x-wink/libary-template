@@ -1,7 +1,28 @@
-# 😉 欢迎使用我的库项目模板
+# 😉 库项目模板
 
-![版本](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![文档](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/x-wink/libary-template#readme)
+> 这是一个通用的库项目模板
+
+<!-- 通用 -->
+
+![版本](https://img.shields.io/github/package-json/v/x-wink/libary-template?style=for-the-badge&filename=package.json)
+![许可](https://img.shields.io/github/package-json/mit/x-wink/libary-template?style=for-the-badge)
+
+<!-- NPM包专用 -->
+
+![下载量](https://img.shields.io/npm/dt/%40xwink/sftp?style=for-the-badge&logo=npm)
+![大小](https://img.shields.io/bundlephobia/minzip/%40xwink/sftp?style=for-the-badge&logo=npm)
+
+<!-- VSCODE插件专用 -->
+
+![安装量](https://img.shields.io/visual-studio-marketplace/i/xwink.wink-snippets?style=for-the-badge&logo=visualstudiocode)
+![评分](https://img.shields.io/visual-studio-marketplace/stars/xwink.wink-snippets?style=for-the-badge&logo=visualstudiocode)
+
+<!-- GITHUB信息 -->
+
+![收藏](https://img.shields.io/github/stars/x-wink/libary-template?style=flat-square&logo=github)
+![借鉴](https://img.shields.io/github/forks/x-wink/libary-template?style=flat-square&logo=github)
+![问题](https://img.shields.io/github/issues/x-wink/libary-template?style=flat-square&logo=github)
+![请求](https://img.shields.io/github/issues-pr/x-wink/libary-template?style=flat-square&logo=github)
 
 ## 💎 使用方式
 
@@ -14,11 +35,19 @@ npm run dev
 
 ## 📖 快速入门
 
+> 暂无
+
 ## 📦 进阶使用
+
+> 暂无
 
 ## 📄 待办列表
 
+> 暂无
+
 ## 🆘问题求助
+
+> 暂无
 
 ## 🎯 框架依赖
 
@@ -31,17 +60,18 @@ npm run dev
 -   [Husky](https://typicode.github.io/husky) 改善你的提交
 -   [CommitLint](https://github.com/conventional-changelog/commitlint#readme) 检查代码提交消息
 
-## 👤 作者
+## 👨‍🎨 作者
 
-**向文可**
+> XWINK
 
 -   Email: 1041367524@qq.com
 -   Github: [@x-wink](https://github.com/x-wink)
+-   Homepage: https://xwink.fun
 
 ## 🤝 贡献
 
-欢迎大家随时[点击这里](https://github.com/x-wink/libary-template/issues)为我提供贡献、问题和功能建议
+> 欢迎大家随时[点击这里](https://github.com/x-wink/libary-template/issues)为我提供贡献、问题和功能建议
 
 ## 😘 感谢支持
 
-如果觉得项目对你有帮助，就帮我点个小星星吧~ ⭐️
+> 如果觉得项目对你有帮助，就帮我点个小星星吧~ ⭐️

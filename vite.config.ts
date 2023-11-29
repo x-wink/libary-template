@@ -34,6 +34,14 @@ export default (configEnv: ConfigEnv) => {
                 entry: resolvePath('./src/index.ts'),
                 name: packageJson.name.replace(/-(\w)/gi, (_, v) => v.toUpperCase()),
             },
+            rollupOptions: {
+                external: ['vue'],
+                output: {
+                    globals: {
+                        vue: 'vue',
+                    },
+                },
+            },
         },
     } as UserConfig;
 };
