@@ -4,7 +4,10 @@
 
 <!-- 通用 -->
 
+![名称](https://img.shields.io/github/package-json/name/x-wink/libary-template?style=for-the-badge)
 ![版本](https://img.shields.io/github/package-json/v/x-wink/libary-template?style=for-the-badge&filename=package.json)
+
+![关键字](https://img.shields.io/github/package-json/keywords/x-wink/libary-template?style=for-the-badge)
 ![许可](https://img.shields.io/github/package-json/license/x-wink/libary-template?style=for-the-badge)
 
 <!-- NPM包专用 -->
@@ -14,8 +17,8 @@
 
 <!-- VSCODE插件专用 -->
 
-![安装量](https://img.shields.io/visual-studio-marketplace/i/xwink.wink-snippets?style=for-the-badge&logo=visualstudiocode)
-![评分](https://img.shields.io/visual-studio-marketplace/stars/xwink.wink-snippets?style=for-the-badge&logo=visualstudiocode)
+![安装量](https://img.shields.io/visual-studio-marketplace/i/xwink.wink-snippets?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![评分](https://img.shields.io/visual-studio-marketplace/stars/xwink.wink-snippets?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 <!-- GITHUB信息 -->
 
